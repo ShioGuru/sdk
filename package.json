@@ -1,0 +1,8 @@
+{
+  "name": "shio",
+  "private": true,
+  "scripts": {
+    "build": "anchor build",
+    "test": "anchor test"
+  }
+}
